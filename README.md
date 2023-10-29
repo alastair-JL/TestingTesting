@@ -1,4 +1,3 @@
-# TestingTesting
-A test poject for demonstration purposes
+I have edited my readme up on github. 
 
-EDIT EDIT EDIT
+These changes do NOT exist on my computer unless I PULL them.
